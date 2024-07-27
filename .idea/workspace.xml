@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26717f45-5070-470a-9109-a23a07eff441" name="Changes" comment="making more mobile friendly">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elda-l-fisher-3981ca1.html" beforeDir="false" afterPath="$PROJECT_DIR$/elda-l-fisher-3981ca1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +85,8 @@
       <workItem from="1722094148359" duration="1504000" />
       <workItem from="1722099292014" duration="39000" />
       <workItem from="1722099388350" duration="130000" />
-      <workItem from="1722101945970" duration="82000" />
+      <workItem from="1722101945970" duration="150000" />
+      <workItem from="1722102143059" duration="273000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -174,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722101961227</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="making more mobile friendly">
+      <option name="closed" value="true" />
+      <created>1722102093188</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722102093188</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
