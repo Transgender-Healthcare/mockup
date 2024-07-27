@@ -25,33 +25,33 @@
             margin: 20px 0px 20px 0px;
 
         }
+
         .collection {
             padding: 0;
             margin: 0;
             border: 0;
         }
-        
+
         .collection-header {
             font-weight: bold;
         }
-        
+
     </style>
 
 </head>
 
 <body>
-    
-                    <script>
-                                        
-                        function redirectToSurvey() {
-                            url = "https://redcap.paigejulianne.com/surveys/?s=XTHRMJ7H7ADTM9EK&url=" + encodeURIComponent(location);
-                            
-                            window.open(url, '_blank').focus();
-                        }
-                        
-                    </script>
-    
-    
+
+<script>
+
+    function redirectToSurvey() {
+        url = "https://redcap.paigejulianne.com/surveys/?s=XTHRMJ7H7ADTM9EK&url=" + encodeURIComponent(location);
+
+        window.open(url, '_blank').focus();
+    }
+
+</script>
+
 
 <div class="container">
     <div class="row">
@@ -80,36 +80,37 @@
         </header>
     </div>
 
-<hr/>
+    <hr/>
     <!-- InstanceBeginEditable name="Body" -->
     <div class="row">
         <form method="get" action="search.html">
 
 
-        <div class="col s12 center-align"><h5>Search our worldwide database of <strong>12,481</strong> transgender-friendly providers
-        </h5>
+            <div class="col s12 center-align"><h5>Search our worldwide database of <strong>12,481</strong>
+                transgender-friendly providers
+            </h5>
 
-        </div>
-
-        <div class="input-field col s3 m3 l3">
-            <select name="c" id="option_box">
-                <option value="name" selected>Name</option>
-                <option value="location">Location</option>
-                <option value="service">Service</option>
-            </select>            
-            <label for="option_box">Search Field</label>
-        </div>
-            
-    <div class="input-field col s6 m6 l6 blue-text">
-             <input type="text" class="validate" id="searchbox" name="q">
-              <label for="searchbox">Search Criteria</label>
             </div>
-            
-        <div class="col s3 m3 l3 input-field">
-            <button class="btn transparent waves-effect waves-light blue-text" type="submit">
-               Search <i class="material-icons right">search</i>
-            </button>
-        </div>
+
+            <div class="input-field col s3 m3 l3">
+                <select name="c" id="option_box">
+                    <option value="name" selected>Name</option>
+                    <option value="location">Location</option>
+                    <option value="service">Service</option>
+                </select>
+                <label for="option_box">Search Field</label>
+            </div>
+
+            <div class="input-field col s6 m6 l6 blue-text">
+                <input type="text" class="validate" id="searchbox" name="q">
+                <label for="searchbox">Search Criteria</label>
+            </div>
+
+            <div class="col s3 m3 l3 input-field">
+                <button class="btn transparent waves-effect waves-light blue-text" type="submit">
+                    Search <i class="material-icons right">search</i>
+                </button>
+            </div>
         </form>
 
 

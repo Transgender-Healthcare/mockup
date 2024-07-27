@@ -25,33 +25,33 @@
             margin: 20px 0px 20px 0px;
 
         }
+
         .collection {
             padding: 0;
             margin: 0;
             border: 0;
         }
-        
+
         .collection-header {
             font-weight: bold;
         }
-        
+
     </style>
 
 </head>
 
 <body>
-    
-                    <script>
-                                        
-                        function redirectToSurvey() {
-                            url = "https://redcap.paigejulianne.com/surveys/?s=XTHRMJ7H7ADTM9EK&url=" + encodeURIComponent(location);
-                            
-                            window.open(url, '_blank').focus();
-                        }
-                        
-                    </script>
-    
-    
+
+<script>
+
+    function redirectToSurvey() {
+        url = "https://redcap.paigejulianne.com/surveys/?s=XTHRMJ7H7ADTM9EK&url=" + encodeURIComponent(location);
+
+        window.open(url, '_blank').focus();
+    }
+
+</script>
+
 
 <div class="container">
     <div class="row">
@@ -80,7 +80,7 @@
         </header>
     </div>
 
-<hr/>
+    <hr/>
     <!-- TemplateBeginEditable name="Body" -->Body<!-- TemplateEndEditable -->
     <hr/>
 

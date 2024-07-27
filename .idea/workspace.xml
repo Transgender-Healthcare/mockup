@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26717f45-5070-470a-9109-a23a07eff441" name="Changes" comment="initial home page and logo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/_notes/base.dwt.mno" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/_notes/base.dwt.mno" afterDir="false" />
+    <list default="true" id="26717f45-5070-470a-9109-a23a07eff441" name="Changes" comment="initial pass at mockup">
       <change beforePath="$PROJECT_DIR$/Templates/base.dwt" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/base.dwt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elda-l-fisher-3981ca1.html" beforeDir="false" afterPath="$PROJECT_DIR$/elda-l-fisher-3981ca1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,7 @@
       <workItem from="1722087641739" duration="90000" />
       <workItem from="1722094148359" duration="1504000" />
       <workItem from="1722099292014" duration="39000" />
+      <workItem from="1722099388350" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -151,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722087700340</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial pass at mockup">
+      <option name="closed" value="true" />
+      <created>1722099410958</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722099410958</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +175,8 @@
     <MESSAGE value="adding jquery-3.7.1 and jquery-ui-1.14.0-beta2-custom" />
     <MESSAGE value="updates to IDE config files" />
     <MESSAGE value="initial home page and logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial home page and logo" />
+    <MESSAGE value="initial pass at mockup" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial pass at mockup" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
