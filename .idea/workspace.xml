@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26717f45-5070-470a-9109-a23a07eff441" name="Changes" comment="adding jquery-3.7.1 and jquery-ui-1.14.0-beta2-custom" />
+    <list default="true" id="26717f45-5070-470a-9109-a23a07eff441" name="Changes" comment="initial home page and logo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/_notes/base.dwt.mno" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/_notes/base.dwt.mno" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/base.dwt" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/base.dwt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +83,9 @@
       <updated>1722081230629</updated>
       <workItem from="1722081232235" duration="2044000" />
       <workItem from="1722085395320" duration="471000" />
+      <workItem from="1722087641739" duration="90000" />
+      <workItem from="1722094148359" duration="1504000" />
+      <workItem from="1722099292014" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -127,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722085841621</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updates to IDE config files">
+      <option name="closed" value="true" />
+      <created>1722087679986</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722087679986</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initial home page and logo">
+      <option name="closed" value="true" />
+      <created>1722087700340</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722087700340</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,8 +163,9 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="checking in IDE configuration files" />
     <MESSAGE value="checking in Materialize CSS framework" />
-    <MESSAGE value="updates to IDE config files" />
     <MESSAGE value="adding jquery-3.7.1 and jquery-ui-1.14.0-beta2-custom" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding jquery-3.7.1 and jquery-ui-1.14.0-beta2-custom" />
+    <MESSAGE value="updates to IDE config files" />
+    <MESSAGE value="initial home page and logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial home page and logo" />
   </component>
 </project>

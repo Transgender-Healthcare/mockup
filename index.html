@@ -1,89 +1,142 @@
 <!doctype html>
 <html><!-- InstanceBegin template="/Templates/base.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
-<meta charset="utf-8">
+    <meta charset="utf-8">
 
     <title>Transgender Healthcare</title>
-    
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+
+    <!-- InstanceBeginEditable name="head" -->
+    <!-- InstanceEndEditable -->
     <link href="materialize/css/materialize.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.typekit.net/hew0mbk.css">
-    <script src="materialize/js/materialize.min.js" async></script>
+    <script src="materialize/js/materialize.min.js"></script>
     <script src="jquery/jquery-3.7.1.min.js"></script>
-    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
     <style>
-        .elza {
+        body {
             font-family: elza, sans-serif;
             font-style: normal;
-            font-weight: 250;
+            /* font-weight: 250; */
         }
+
         hr {
             margin: 20px 0px 20px 0px;
 
         }
-    
-    
+        .collection {
+            padding: 0;
+            margin: 0;
+            border: 0;
+        }
+        
+        .collection-header {
+            font-weight: bold;
+        }
+        
     </style>
-    
+
 </head>
 
 <body>
     
-    <div class="container">
-        
+                    <script>
+                                        
+                        function redirectToSurvey() {
+                            url = "https://redcap.paigejulianne.com/surveys/?s=XTHRMJ7H7ADTM9EK&url=" + encodeURIComponent(location);
+                            
+                            window.open(url, '_blank').focus();
+                        }
+                        
+                    </script>
+    
+    
+
+<div class="container">
+    <div class="row">
+        <div class="col s12">
+            <div class="card-panel red center-align">
+          <span class="white-text"><h5>This is a static mockup only and is not functional.</h5>
+              <p>We welcome any and all feedback!<br/><a href="" onclick="redirectToSurvey();"
+                                                         class="yellow-text">Click here to leave us your anonymous feedback</a></p>
+        </span>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row center-align">
         <header>
-            <div class="row">
-                <div class="col s3"><img src="images/logo.png" width="128" height="128" alt="Transgender Healthcare Logo"/></div>
-                <div class="col s9"><h2 class="elza">Transgender.Healthcare</h2>
+            <div class="col s2"><img src="images/logo.png" width="128" height="128"
+                                     alt="Transgender Healthcare Logo"/></div>
+            <div class="col s10"><h2>Transgender.Healthcare</h2>
                 <p>
-                    <a href="/">Home</a>
-                    
-                    </p>
-                
-                </div>
+                    <a href="/"><h5>Home</h5></a>
+
+                </p>
+
             </div>
         </header>
-        
-        <div class="row">
-    <div class="col s12">
-      <div class="card-panel red">
-        <span class="white-text">This is a mockup only and not a fully functional site.
-        </span>
-      </div>
     </div>
-  </div>
-        
-        <hr/>
-    
-    <!-- InstanceBeginEditable name="Body" --><h3 class="elza">Welcome!</h3><!-- InstanceEndEditable -->
-        <hr />
-        <footer>
-            <div class="row">
-                <div class="col s4">Footer 1</div>
-                <div class="col s4">Footer 2</div>
-                <div class="col s4">Footer 3</div>
-            </div>
-            <div class="row">
-                <div class="col s12 center-align">Disclaimer/Legal Notice</div>
+
+<hr/>
+    <!-- InstanceBeginEditable name="Body" -->
+    <div class="row">
+        <form method="get" action="search.html">
+
+
+        <div class="col s12 center-align"><h5>Search our worldwide database of <strong>12,481</strong> transgender-friendly providers
+        </h5>
+
+        </div>
+
+        <div class="input-field col s3 m3 l3">
+            <select name="c" id="option_box">
+                <option value="name" selected>Name</option>
+                <option value="location">Location</option>
+                <option value="service">Service</option>
+            </select>            
+            <label for="option_box">Search Field</label>
+        </div>
             
+    <div class="input-field col s6 m6 l6 blue-text">
+             <input type="text" class="validate" id="searchbox" name="q">
+              <label for="searchbox">Search Criteria</label>
             </div>
-        
+            
+        <div class="col s3 m3 l3 input-field">
+            <button class="btn transparent waves-effect waves-light blue-text" type="submit">
+               Search <i class="material-icons right">search</i>
+            </button>
+        </div>
+        </form>
+
+
+    </div>
+
+
+    <!-- InstanceEndEditable -->
+    <hr/>
+
+    <div class="row center-align">
+        <footer>
+            <div class="col s4"><a>Sign Up</a> or <a>Login</a></div>
+            <div class="col s4"><a>Are you a provider?</a></div>
+            <div class="col s4"><a>Contribute a New Provider</a></div>
         </footer>
-        
-         <div class="row">
-    <div class="col s12">
-      <div class="card-panel red">
-        <span class="white-text">This is a mockup only and not a fully functional site.
-        </span>
-      </div>
     </div>
-  </div>
-        
+    <div class="row">
+        <div class="col s12 center-align">Transgender.Healthcare Inc. is not responsible for the accuracy of the
+            community-contributed provider listings.
+        </div>
     </div>
-    
-    <script>
+</div>
+
+
+<script>
     M.AutoInit();
-    </script>
+</script>
+
 </body>
 <!-- InstanceEnd --></html>
