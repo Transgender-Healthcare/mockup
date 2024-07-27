@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26717f45-5070-470a-9109-a23a07eff441" name="Changes" comment="initial pass at mockup">
-      <change beforePath="$PROJECT_DIR$/Templates/base.dwt" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/base.dwt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elda-l-fisher-3981ca1.html" beforeDir="false" afterPath="$PROJECT_DIR$/elda-l-fisher-3981ca1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-    </list>
+    <list default="true" id="26717f45-5070-470a-9109-a23a07eff441" name="Changes" comment="reformatting code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +81,7 @@
       <workItem from="1722087641739" duration="90000" />
       <workItem from="1722094148359" duration="1504000" />
       <workItem from="1722099292014" duration="39000" />
-      <workItem from="1722099388350" duration="111000" />
+      <workItem from="1722099388350" duration="130000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -160,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722099410958</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="reformatting code">
+      <option name="closed" value="true" />
+      <created>1722099514417</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722099514417</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +179,8 @@
     <MESSAGE value="updates to IDE config files" />
     <MESSAGE value="initial home page and logo" />
     <MESSAGE value="initial pass at mockup" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial pass at mockup" />
+    <MESSAGE value="reformatting code" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformatting code" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
