@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;paigejulianne&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:genderdirectory/mockup.git",
-    "accountId": "dd15adf6-cd05-49f5-bbe3-52d10ea82572"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:genderdirectory/mockup.git&quot;,
+    &quot;accountId&quot;: &quot;dd15adf6-cd05-49f5-bbe3-52d10ea82572&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Ubuntu-22.04" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -87,6 +87,8 @@
       <workItem from="1722108010295" duration="791000" />
       <workItem from="1722143560523" duration="29000" />
       <workItem from="1722430957943" duration="50000" />
+      <workItem from="1722431648128" duration="18000" />
+      <workItem from="1722432291569" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
